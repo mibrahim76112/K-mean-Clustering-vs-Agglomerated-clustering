@@ -1,4 +1,4 @@
-##Guide to run the code
+**Guide to run the code**
 
 You Just need to upload your data on Google Collaboratory and run each Cell! 
 
